@@ -1,0 +1,18 @@
+PODS:
+  - CollectionKit (2.4.0):
+    - CollectionKit/Core (= 2.4.0)
+  - CollectionKit/Core (2.4.0)
+
+DEPENDENCIES:
+  - CollectionKit
+
+SPEC REPOS:
+  trunk:
+    - CollectionKit
+
+SPEC CHECKSUMS:
+  CollectionKit: 8f01e7629185bb81072c4aa734d105df5c2d1c8b
+
+PODFILE CHECKSUM: 093521e70ef4a673b71939c0230238a92ecbc692
+
+COCOAPODS: 1.10.1
